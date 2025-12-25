@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Environment files
-.env
+*.env
 
 # System files
 .DS_Store
