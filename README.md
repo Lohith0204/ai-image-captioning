@@ -1,5 +1,10 @@
 # AI Image Captioning System
 
+## Live Demo
+Try out the deployed application here:
+
+🚀 **Streamlit App** → https://ai-image-captioning-ue2ps9fesx6jrwtwwrddd7.streamlit.app/
+
 ## Overview
 An artificial intelligence–based system that generates descriptive natural language captions for images.  
 This project demonstrates the integration of computer vision and natural language processing using transformer-based deep learning models.This project focuses on building an efficient and scalable image captioning pipeline using pre-trained vision–language models.
@@ -19,6 +24,7 @@ This project demonstrates the integration of computer vision and natural languag
 - Pillow
 
 ## Project Structure
+```text
 AI-Speech-Recognition/
 │
 ├── app.py # Streamlit UI and application logic
@@ -35,7 +41,7 @@ AI-Speech-Recognition/
     ├── home.png
     ├── upload.png
     └── result.png
-
+```
 
 ## Screenshots
 
